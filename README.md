@@ -1,1 +1,3 @@
-# Neural-Network
+### Neural-Network
+
+Diferent kinds of neural networks for CIFAR10
