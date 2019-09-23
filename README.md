@@ -1,3 +1,3 @@
 ### Neural-Network
 
-Diferent kinds of neural networks for CIFAR10
+Diferent kinds of neural networks for CIFAR10 using PyTorch.
